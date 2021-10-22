@@ -5,7 +5,9 @@ namespace PersonalLib
 {
     public class DictionaryControllerLib
     {
-        private Dictionary<string, int> CalculateWords(string[] contents)
+        private static object locker = new object();
+
+        private Dictionary<string, int> SingleCalculate(string[] contents)
         {
             var dict = new Dictionary<string, int>();
             foreach (var word in contents)
@@ -22,12 +24,14 @@ namespace PersonalLib
             return dict;
         }
 
-        public Dictionary<string, int> MultithreadingCalculate(string[] contents)
+        public Dictionary<string, int> MultiCalcualte(string[] contents)
         {
-            Task.Factory.StartNew(() =>
+            lock (locker)
             {
+                var wordsArr = contents;
                 var dict = new Dictionary<string, int>();
-                foreach (var word in contents)
+                Parallel.ForEach(wordsArr, (word) =>
+
                 {
                     if (dict.ContainsKey(word))
                     {
@@ -38,10 +42,9 @@ namespace PersonalLib
                         dict[word] = 1;
                     }
                 }
-
+                    );
                 return dict;
-            });
-            return null;
+            }
         }
     }
 }
