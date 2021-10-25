@@ -1,0 +1,17 @@
+C:\Users\Lirika\source\repos\WordsHandler\PersonalLibNet\bin\Debug\PersonalLibNet.dll
+C:\Users\Lirika\source\repos\WordsHandler\PersonalLibNet\bin\Debug\PersonalLibNet.pdb
+C:\Users\Lirika\source\repos\WordsHandler\PersonalLibNet\obj\Debug\PersonalLibNet.csproj.CoreCompileInputs.cache
+C:\Users\Lirika\source\repos\WordsHandler\PersonalLibNet\obj\Debug\PersonalLibNet.dll
+C:\Users\Lirika\source\repos\WordsHandler\PersonalLibNet\obj\Debug\PersonalLibNet.pdb
+D:\123\WordsHandler\PersonalLibNet\bin\Debug\PersonalLibNet.dll
+D:\123\WordsHandler\PersonalLibNet\bin\Debug\PersonalLibNet.pdb
+D:\123\WordsHandler\PersonalLibNet\obj\Debug\PersonalLibNet.csproj.AssemblyReference.cache
+D:\123\WordsHandler\PersonalLibNet\obj\Debug\PersonalLibNet.csproj.CoreCompileInputs.cache
+D:\123\WordsHandler\PersonalLibNet\obj\Debug\PersonalLibNet.dll
+D:\123\WordsHandler\PersonalLibNet\obj\Debug\PersonalLibNet.pdb
+C:\Users\Lirika\source\repos\WcfServiceDigitalDesign\PersonalLibNet\bin\Debug\PersonalLibNet.dll
+C:\Users\Lirika\source\repos\WcfServiceDigitalDesign\PersonalLibNet\bin\Debug\PersonalLibNet.pdb
+C:\Users\Lirika\source\repos\WcfServiceDigitalDesign\PersonalLibNet\obj\Debug\PersonalLibNet.csproj.AssemblyReference.cache
+C:\Users\Lirika\source\repos\WcfServiceDigitalDesign\PersonalLibNet\obj\Debug\PersonalLibNet.csproj.CoreCompileInputs.cache
+C:\Users\Lirika\source\repos\WcfServiceDigitalDesign\PersonalLibNet\obj\Debug\PersonalLibNet.dll
+C:\Users\Lirika\source\repos\WcfServiceDigitalDesign\PersonalLibNet\obj\Debug\PersonalLibNet.pdb

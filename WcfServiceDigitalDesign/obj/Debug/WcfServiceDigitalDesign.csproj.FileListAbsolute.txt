@@ -1,0 +1,10 @@
+C:\Users\Lirika\source\repos\WcfServiceDigitalDesign\WcfServiceDigitalDesign\obj\Debug\WcfServiceDigitalDesign.csproj.AssemblyReference.cache
+C:\Users\Lirika\source\repos\WcfServiceDigitalDesign\WcfServiceDigitalDesign\obj\Debug\WcfServiceDigitalDesign.csproj.CoreCompileInputs.cache
+C:\Users\Lirika\source\repos\WcfServiceDigitalDesign\WcfServiceDigitalDesign\bin\WcfServiceDigitalDesign.dll.config
+C:\Users\Lirika\source\repos\WcfServiceDigitalDesign\WcfServiceDigitalDesign\bin\WcfServiceDigitalDesign.dll
+C:\Users\Lirika\source\repos\WcfServiceDigitalDesign\WcfServiceDigitalDesign\bin\WcfServiceDigitalDesign.pdb
+C:\Users\Lirika\source\repos\WcfServiceDigitalDesign\WcfServiceDigitalDesign\bin\PersonalLibNet.dll
+C:\Users\Lirika\source\repos\WcfServiceDigitalDesign\WcfServiceDigitalDesign\bin\PersonalLibNet.pdb
+C:\Users\Lirika\source\repos\WcfServiceDigitalDesign\WcfServiceDigitalDesign\obj\Debug\WcfServiceDigitalDesign.csproj.CopyComplete
+C:\Users\Lirika\source\repos\WcfServiceDigitalDesign\WcfServiceDigitalDesign\obj\Debug\WcfServiceDigitalDesign.dll
+C:\Users\Lirika\source\repos\WcfServiceDigitalDesign\WcfServiceDigitalDesign\obj\Debug\WcfServiceDigitalDesign.pdb
